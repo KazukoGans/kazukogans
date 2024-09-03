@@ -11,8 +11,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KazukoGans&theme=prussian&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Quote
+![Finding happiness isn't that simple, you can end up hurting those you care about.]()
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KazukoGans&icon=2&color=1)](https://visitcount.itsvg.in)
